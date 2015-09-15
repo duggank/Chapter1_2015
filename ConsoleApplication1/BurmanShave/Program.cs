@@ -9,6 +9,7 @@ namespace BurmanShave
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

@@ -9,6 +9,8 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\"I am your father\"");
+            Console.ReadKey();
         }
     }
 }

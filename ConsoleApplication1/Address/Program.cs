@@ -9,6 +9,8 @@ namespace Address
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Kyle Duggan\n1580 Stump Road\nEaston, PA");
+            Console.ReadKey();
         }
     }
 }

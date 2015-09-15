@@ -9,9 +9,7 @@ namespace Name
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter your name: ");
-            string name = Console.ReadLine();
-            Console.WriteLine(name);
+            Console.WriteLine("name");
             Console.ReadKey();
         }
     }
