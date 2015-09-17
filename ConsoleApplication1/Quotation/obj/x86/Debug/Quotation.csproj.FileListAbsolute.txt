@@ -2,3 +2,7 @@ C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Quotation\bin
 C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Quotation\bin\Debug\Quotation.pdb
 C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Quotation\obj\x86\Debug\Quotation.exe
 C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Quotation\obj\x86\Debug\Quotation.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Quotation\obj\x86\Debug\Quotation.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Quotation\obj\x86\Debug\Quotation.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Quotation\bin\Debug\Quotation.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Quotation\bin\Debug\Quotation.pdb

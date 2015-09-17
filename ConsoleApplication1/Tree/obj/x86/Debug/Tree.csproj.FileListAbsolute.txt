@@ -2,3 +2,7 @@ C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Tree\bin\Debu
 C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Tree\bin\Debug\Tree.pdb
 C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Tree\obj\x86\Debug\Tree.exe
 C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Tree\obj\x86\Debug\Tree.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Tree\obj\x86\Debug\Tree.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Tree\obj\x86\Debug\Tree.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Tree\bin\Debug\Tree.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Tree\bin\Debug\Tree.pdb

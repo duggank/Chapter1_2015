@@ -4,3 +4,5 @@ C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Name\obj\x86\
 C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Name\obj\x86\Debug\Name.pdb
 C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Name\obj\x86\Debug\Name.exe
 C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Name\obj\x86\Debug\Name.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Name\bin\Debug\Name.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\Name\bin\Debug\Name.pdb

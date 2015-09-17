@@ -2,3 +2,7 @@ C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\BurmanShave\b
 C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\BurmanShave\bin\Debug\BurmanShave.pdb
 C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\BurmanShave\obj\x86\Debug\BurmanShave.exe
 C:\Users\eahscs\Documents\GitHub\Chapter1_2015\ConsoleApplication1\BurmanShave\obj\x86\Debug\BurmanShave.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\BurmanShave\bin\Debug\BurmanShave.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\BurmanShave\bin\Debug\BurmanShave.pdb
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\BurmanShave\obj\x86\Debug\BurmanShave.exe
+C:\Users\EASHCS\Documents\GitHub\Chapter1_2015\ConsoleApplication1\BurmanShave\obj\x86\Debug\BurmanShave.pdb
